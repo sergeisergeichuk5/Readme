@@ -14,10 +14,12 @@
 
 I am a Software QA-Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I have been doing Manual and Automation testing for the past 7 years.
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: i can work almost with all types testing. For example: Front-end, API and Back-End testing, End to End testing, Functional, Regression, Exploratory, Black/Gray/White Box and Performance and Security testing.
+
+- :zap: in Imy free time, i am learning programming languages  and improving my knowledge base in Automation testing.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssergeichuk/)
